@@ -1,0 +1,6 @@
+{
+  "name": "Visual Flowchart Sistem PWA",
+  "description": "Diagram visual interaktif alur kerja, siklus hidup Service Worker, offline caching, dan proses instalasi Progressive Web App (PWA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
